@@ -1,0 +1,23 @@
+[
+  {
+    "cats": [
+      "Meowi cutie",
+      "Hello Kitty",
+      "King Jimmi"
+    ]
+  },
+  {
+    "catsAge": [
+      "3",
+      "13",
+      "666"
+    ]
+  },
+  {
+    "catsFood": [
+      "Salmon",
+      "Fish",
+      "Tune"
+    ]
+  }
+]
