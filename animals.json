@@ -1,23 +1,26 @@
 [
   {
-    "cats": [
-      "Meowi cutie",
-      "Hello Kitty",
-      "King Jimmi"
-    ]
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
   },
   {
-    "catsAge": [
-      "3",
-      "13",
-      "666"
-    ]
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
   },
   {
-    "catsFood": [
-      "Salmon",
-      "Fish",
-      "Tune"
-    ]
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
   }
 ]
